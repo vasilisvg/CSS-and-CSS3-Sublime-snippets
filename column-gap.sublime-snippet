@@ -4,7 +4,7 @@
     -ms-column-gap: ${1:1em};
      -o-column-gap: ${1:1em};
         column-gap: ${1:1em};$0]]></content>
-    <tabTrigger>column</tabTrigger>
+    <tabTrigger>col</tabTrigger>
     <scope>source.css</scope>
     <description>column-gap: size</description>
 </snippet>
